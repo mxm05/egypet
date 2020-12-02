@@ -7,9 +7,11 @@ https://ru.wikipedia.org/wiki/%D0%95%D0%B3%D0%B8%D0%BF%D0%B5%D1%82%D1%81%D0%BA%D
 https://unicode-table.com/ru/blocks/egyptian-hieroglyphs/ 
 ### Запуск http  сервера  python:
 python -m http.server --cgi 
+
 Команда выполняется в командной строке windows (терминале) в папке проекта.
 ### Запуск приложения:
 В строке адреса интернет-браузера набрать:
+
 localhost:8000
 ### Остановка http сервера:
 Нажать ctrl+C в окне тарминала.
